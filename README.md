@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web/App dev
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at shubhamdraveriya@gmail.com
 
 <!---
 shubhamdraveriya/shubhamdraveriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
