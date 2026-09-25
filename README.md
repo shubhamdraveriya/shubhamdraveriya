@@ -1,5 +1,4 @@
 👋 Hi, I’m Shubham
-🎓 M.Tech VLSI @ DIAT, Pune
 🧠 Into RTL design, RISC-V, FPGA & high-speed digital systems
 ⚙️ Verilog / SystemVerilog / Vivado / Icarus / GTKWave
 🚀 Built a RV32I RISC-V core, working on pipelining next
