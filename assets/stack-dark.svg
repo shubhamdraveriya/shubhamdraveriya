@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Lab stack: HDL and verification, toolchains, interfaces and standards, software">
+  <title>Lab stack: HDL and verification, toolchains, interfaces and standards, software</title>
+  <style>
+    .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="#15172b" stroke="#33355a"/>
+  <text x="48.0" y="56" class="mono" font-size="13" letter-spacing="2" fill="#e9b949">HDL + VERIFICATION</text>
+  <rect x="48.0" y="68" width="28" height="3" rx="1.5" fill="#e9b949"/>
+  <rect x="48.0" y="95" width="7" height="7" rx="1" fill="#e9b949" opacity="0.8"/>
+  <text x="66.0" y="104" class="sans" font-size="16.5" fill="#eceaf5">SystemVerilog</text>
+  <rect x="48.0" y="126" width="7" height="7" rx="1" fill="#e9b949" opacity="0.8"/>
+  <text x="66.0" y="135" class="sans" font-size="16.5" fill="#eceaf5">Verilog-2001</text>
+  <rect x="48.0" y="157" width="7" height="7" rx="1" fill="#e9b949" opacity="0.8"/>
+  <text x="66.0" y="166" class="sans" font-size="16.5" fill="#eceaf5">Self-checking testbenches</text>
+  <rect x="48.0" y="188" width="7" height="7" rx="1" fill="#e9b949" opacity="0.8"/>
+  <text x="66.0" y="197" class="sans" font-size="16.5" fill="#eceaf5">Icarus · Verilator</text>
+  <rect x="48.0" y="219" width="7" height="7" rx="1" fill="#e9b949" opacity="0.8"/>
+  <text x="66.0" y="228" class="sans" font-size="16.5" fill="#eceaf5">GTKWave</text>
+  <rect x="48.0" y="250" width="7" height="7" rx="1" fill="#e9b949" opacity="0.8"/>
+  <text x="66.0" y="259" class="sans" font-size="16.5" fill="#eceaf5">Fault injection</text>
+  <path d="M316.0 34 V266" stroke="#33355a"/>
+  <text x="332.0" y="56" class="mono" font-size="13" letter-spacing="2" fill="#6fe3e1">TOOLCHAINS</text>
+  <rect x="332.0" y="68" width="28" height="3" rx="1.5" fill="#6fe3e1"/>
+  <rect x="332.0" y="95" width="7" height="7" rx="1" fill="#6fe3e1" opacity="0.8"/>
+  <text x="350.0" y="104" class="sans" font-size="16.5" fill="#eceaf5">Vivado + Vitis</text>
+  <rect x="332.0" y="126" width="7" height="7" rx="1" fill="#6fe3e1" opacity="0.8"/>
+  <text x="350.0" y="135" class="sans" font-size="16.5" fill="#eceaf5">Efinix Efinity</text>
+  <rect x="332.0" y="157" width="7" height="7" rx="1" fill="#6fe3e1" opacity="0.8"/>
+  <text x="350.0" y="166" class="sans" font-size="16.5" fill="#eceaf5">Yosys</text>
+  <rect x="332.0" y="188" width="7" height="7" rx="1" fill="#6fe3e1" opacity="0.8"/>
+  <text x="350.0" y="197" class="sans" font-size="16.5" fill="#eceaf5">SystemRDL · PeakRDL</text>
+  <rect x="332.0" y="219" width="7" height="7" rx="1" fill="#6fe3e1" opacity="0.8"/>
+  <text x="350.0" y="228" class="sans" font-size="16.5" fill="#eceaf5">Tcl, STA + CDC reports</text>
+  <path d="M600.0 34 V266" stroke="#33355a"/>
+  <text x="616.0" y="56" class="mono" font-size="13" letter-spacing="2" fill="#9b8cff">INTERFACES + STANDARDS</text>
+  <rect x="616.0" y="68" width="28" height="3" rx="1.5" fill="#9b8cff"/>
+  <rect x="616.0" y="95" width="7" height="7" rx="1" fill="#9b8cff" opacity="0.8"/>
+  <text x="634.0" y="104" class="sans" font-size="16.5" fill="#eceaf5">AXI4-Lite · AXI4-Stream</text>
+  <rect x="616.0" y="126" width="7" height="7" rx="1" fill="#9b8cff" opacity="0.8"/>
+  <text x="634.0" y="135" class="sans" font-size="16.5" fill="#eceaf5">CCSDS 123.0-B-2</text>
+  <rect x="616.0" y="157" width="7" height="7" rx="1" fill="#9b8cff" opacity="0.8"/>
+  <text x="634.0" y="166" class="sans" font-size="16.5" fill="#eceaf5">AOS frames · Space Packets</text>
+  <rect x="616.0" y="188" width="7" height="7" rx="1" fill="#9b8cff" opacity="0.8"/>
+  <text x="634.0" y="197" class="sans" font-size="16.5" fill="#eceaf5">Reed-Solomon</text>
+  <rect x="616.0" y="219" width="7" height="7" rx="1" fill="#9b8cff" opacity="0.8"/>
+  <text x="634.0" y="228" class="sans" font-size="16.5" fill="#eceaf5">GTX · Aurora · SFP</text>
+  <rect x="616.0" y="250" width="7" height="7" rx="1" fill="#9b8cff" opacity="0.8"/>
+  <text x="634.0" y="259" class="sans" font-size="16.5" fill="#eceaf5">ECC · TMR · SEM</text>
+  <path d="M884.0 34 V266" stroke="#33355a"/>
+  <text x="900.0" y="56" class="mono" font-size="13" letter-spacing="2" fill="#ff7ab6">SOFTWARE</text>
+  <rect x="900.0" y="68" width="28" height="3" rx="1.5" fill="#ff7ab6"/>
+  <rect x="900.0" y="95" width="7" height="7" rx="1" fill="#ff7ab6" opacity="0.8"/>
+  <text x="918.0" y="104" class="sans" font-size="16.5" fill="#eceaf5">Python + pytest</text>
+  <rect x="900.0" y="126" width="7" height="7" rx="1" fill="#ff7ab6" opacity="0.8"/>
+  <text x="918.0" y="135" class="sans" font-size="16.5" fill="#eceaf5">Bare-metal C on Cortex-A53</text>
+  <rect x="900.0" y="157" width="7" height="7" rx="1" fill="#ff7ab6" opacity="0.8"/>
+  <text x="918.0" y="166" class="sans" font-size="16.5" fill="#eceaf5">RISC-V assembly</text>
+  <rect x="900.0" y="188" width="7" height="7" rx="1" fill="#ff7ab6" opacity="0.8"/>
+  <text x="918.0" y="197" class="sans" font-size="16.5" fill="#eceaf5">MCP servers</text>
+  <rect x="900.0" y="219" width="7" height="7" rx="1" fill="#ff7ab6" opacity="0.8"/>
+  <text x="918.0" y="228" class="sans" font-size="16.5" fill="#eceaf5">Git + CI</text>
+</svg>
